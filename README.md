@@ -35,4 +35,4 @@ Dependencies
 Apache Spark
 PySpark
 Pandas
-Scikit-learn (for cosine similarity calculations)
+Scikit-learn
